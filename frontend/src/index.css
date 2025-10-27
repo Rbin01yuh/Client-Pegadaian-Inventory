@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@config "../tailwind.config.cjs";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Inter, Poppins, ui-sans-serif, system-ui, sans-serif;
+}

@@ -1,0 +1,39 @@
+# General
+node_modules/
+dist/
+dist-ssr/
+*.local
+*.log
+
+# Secrets
+.env
+.env.*
+
+# Database dumps (exclude any .sql)
+*.sql
+**/*.sql
+backend/db/*.sql
+backend/db/**/*.sql
+frontend/db/*.sql
+frontend/db/**/*.sql
+
+# Backend specific
+backend/node_modules/
+backend/.env
+backend/.env.*
+
+# Frontend specific
+frontend/node_modules/
+frontend/.env
+frontend/.env.*
+
+# Editors/OS
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
