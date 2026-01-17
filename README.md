@@ -34,7 +34,7 @@ Client-Pegadaian-Inventory/
 ---
 
 ## 🛠️ Teknologi
-- Frontend: TypeScript / JavaScript (React/Vue/Next.js)
+- Frontend: TypeScript (React/Vue)
 - Backend: Node.js + Express
 - Database: MySQL / PostgreSQL / MongoDB
 - API: REST
